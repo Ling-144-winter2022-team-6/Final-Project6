@@ -1,4 +1,6 @@
  A. any of the python scripts or other data analysis tools that you used to gather and filter out your relevant data
   Python was process thorough "PyCharm" to filter the data. 
-  Regex was used to filter the data
-  Google sheet was used to annotate the filtered data,
+  Regex was used to filter the data. 
+  Through regex, which can be accessed through 'consolidated_filter' file in the main, we changed all the "uh", "um" and "hmm" filler to "UHM" and added delimiter arounf "like" and "UHM" for the annotation in Google sheet. 
+  Google sheet was used to annotate the filtered data, we seperated "like" and "UHM" using delimeters and one by one annotated their syntactical position in the sentence. 
+  After filtering out the sentential position we made graph that shows the main difference between the "like" and "UHM". 
