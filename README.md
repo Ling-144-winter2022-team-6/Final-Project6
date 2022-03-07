@@ -5,19 +5,9 @@ Gaosong Liu,
 Emilio Gonzalez,
 Jackson Confer
 
-Overview: 
+Overview of files: 
 
-Week1 (2/6-12) : 
-  Distributing work over members. Assigned issue. 
-  Looking for resources that are relevant to project
-
-Week2 
-  
-  (2/15 Tue) 
-  Decided on the data: _Mean girls, Clueless, Ladybird, Santa Barbara Corpus of Spoken American English. 
- 
-  (2/17 Thur)
-  found all the resources that are relevant to project
-  
-  (2/18) Fri
-  Written the assignment
+filtered file: all the filtered texts through regex. 
+Data Analysis: write-up on the method of the filtering and annotating process 
+Data Annotation-Sheet1: pdf of google sheets that shows the annotatioon process
+concolidated_filter: the python code that shows first filter process with regex
